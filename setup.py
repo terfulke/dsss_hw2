@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="math_quiz",
-    version="0.1",
+    version="1.0.0",
     entry_points={"console_scripts": ["math_quiz=math_quiz.math_quiz:main"]},  #main function in math_quiz.py
     description="A math quiz application",
     author="Terezia Fuleova",
